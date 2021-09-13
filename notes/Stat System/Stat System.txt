@@ -1,0 +1,32 @@
+BASE STATS
+Scale of 1 - 100?
+
+I shall come up with names later.
+
+HP
+MP
+SP
+
+Physical Attack
+Physical Defence
+
+Magic Attack
+Magic Defence
+
+Speed
+
+Accuracy (Cannot be upgraded)
+
+SKILL TREE
+Skills?
+
+Unarmored
+Light Armor
+Medium Armor
+Heavy Armor
+
+Fisticuffs
+Daggers
+Short Sword
+One-Hand Sword
+Long Sword

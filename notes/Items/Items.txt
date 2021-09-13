@@ -1,0 +1,31 @@
+Echinacea Leaf - 
+	- Teas, poultices, 
+
+Echinacea Stalk - 
+	- 
+
+Echinacea Root - 
+
+
+Poultice - A soft, most mass of material. Used to relieve soreness and inflammation. Kept in place with cloth.
+
+Ointment - A smooth, oily preparation that is rubbed on the skin for medicinal purposes.
+Lotion - {Same desc.}
+Cream - {No desc.}
+Salve - Ointment used to promote healing, or as protection.
+Liniment - A liquid or lotion, especially one made with oil, for rubbing on the body.
+Embrocation - A liquid used for rubbing on the body.
+Rub - {No desc.}
+Gel - A thick, clear, slightly sticky substance.
+Balm 
+Demulcent
+
+Tincture - A medicine made by disolving a drug in alcohol.
+
+Acacia Gum - A gum made from the hardened sap of the Acacia tree.
+
+Common Yew - Cures poison, causes fatigue. Poisonous to beasts.
+	Flower - Can be made into; All
+	Leaf - Can be made into; Food-type
+	Stalk - Can be made into; Ointment-type, drink-type
+	Root - 

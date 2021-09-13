@@ -1,0 +1,44 @@
+//for (var n = 0; n <= 39; n++) {
+//	for (var m = 0; m <= 1; m++) {
+//		actionHistory[n][m] = 0;
+//		show_debug_message("SET actionHistory[" + string(n) + "][" + string(m) + "] to 0.");
+//	}
+//}
+
+//playerAction [Player ID] [Action #] [Action Details]
+//enemyAction [Enemy ID] [Action #] [Action Details]
+//for (var n = 0; n <= 3; n++) {
+//	for (var m = 0; m <= 10; m++) {
+//		show_debug_message("SET playerAction[" + string(n) + "][" + string(m) + "][0] to battleActions.selecting");
+//		show_debug_message("SET playerAction[" + string(n) + "][" + string(m) + "][1] to undefined");
+//		playerAction[n][m][0] = battleActions.selecting; //Action Selected
+//		playerAction[n][m][1] = undefined; //Target
+//		playerAction[n][m][2] = 0; //Skill & Item Index
+//		playerAction[n][m][3] = undefined; // Speed modifier
+//	}
+	
+//	//Out of bounds indicators and error handling.
+//	playerAction[n][11][0] = -1;
+//	playerAction[n][11][1] = -1;
+//	playerAction[n][11][2] = -1;
+//	playerAction[n][11][3] = -1;
+//}
+
+//// Out of bounds indicators and error handling.
+//playerAction[4][0][0] = -1;
+//playerAction[4][0][1] = -1;
+//playerAction[4][0][2] = -1;
+//playerAction[4][0][3] = -1;
+
+
+//show_debug_message("SET playerAction[4][0][0] to -1 \nSET playerAction[4][0][1] to -1 \nSET playerAction[4][0][2] to -1");
+
+//for (var n = 0; n <= 3; n++) {
+//	for (var m = 0; m <= 10; m++) {
+//		show_debug_message("SET enemyAction[" + string(n) + "][" + string(m) + "][0] to battleActions.selecting");
+//		show_debug_message("SET enemyAction[" + string(n) + "][" + string(m) + "][1] to undefined");
+//		enemyAction[n][m][0] = battleActions.selecting;
+//		enemyAction[n][m][1] = undefined;
+//		enemyAction[n][m][2] = 0;
+//	}
+//}
